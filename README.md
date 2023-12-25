@@ -2,7 +2,7 @@
 
 🖥️ Sou um entusiasta do desenvolvimento front-end em constante busca por aprimoramento!
 
-🚀 Atualmente focado em ahtml, CSS e JavaScript.
+🚀 Atualmente focado em HTML, CSS e JavaScript.
 
 📚 Além do meu conhecimento atual, estou em uma jornada de aprendizado contínuo para aprimorar minhas habilidades de programação e desenvolvimento web.
 
