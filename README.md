@@ -13,8 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark"/>
 </div> <br>
 
-![HTML,CSS](https://skillicons.dev/icons?i=html,css) <br> <br>
-![Git, GitHub, VSCode](https://skillicons.dev/icons?i=git,github,vscode)
+![HTML,CSS,js](https://skillicons.dev/icons?i=html,css, js) <br> <br>
+![Git,GitHub,VSCode,NodeJS](https://skillicons.dev/icons?i=git,github,vscode, nodejs)
 
 
 ## **📫 Social Media**
