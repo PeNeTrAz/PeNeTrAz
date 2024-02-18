@@ -14,7 +14,7 @@
 </div> <br>
 
 ![](https://skillicons.dev/icons?i=java,html,css,js) <br> <br>
-![](https://skillicons.dev/icons?i=git,github,vscode,nodejs,mysql)
+![](https://skillicons.dev/icons?i=git,github,mysql)
 
 
 ## **📫 Social Media**
