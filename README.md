@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
 </div> <br>
 
-![](https://skillicons.dev/icons?i=java,html,css,js) <br> <br>
+![](https://skillicons.dev/icons?i=java,html,css,js) <br>
 ![](https://skillicons.dev/icons?i=git,github,mysql)
 
 
