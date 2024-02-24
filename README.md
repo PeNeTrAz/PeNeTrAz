@@ -9,7 +9,6 @@
 ## **📈 GitHub Stats & Skills**
 <div>
   <a href="https://github.com/PeNeTrAz">
-  <img src="https://github-readme-stats.vercel.app/api?username=penetraz&show_icons=true&line_height=27&count_private=true&icon_color=02A0FF&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
 </div> <br>
 
