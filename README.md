@@ -2,9 +2,9 @@
 
 🖥️ Sou um entusiasta do desenvolvimento front-end em constante busca por aprimoramento!
 
-🚀 Tenho conhecimentos de HTML, CSS, JavaScript, MySQL
+📚 HTML, CSS, JavaScript, MySQL
 
-📚 Além do meu conhecimento atual, estou em uma jornada de aprendizado contínuo para aprimorar minhas habilidades de programação e desenvolvimento web.
+🚀 Além do meu conhecimento atual, estou em uma jornada de aprendizado contínuo para aprimorar minhas habilidades de programação e desenvolvimento web.
 
 ## **📈 GitHub Stats & Skills**
 <div>
