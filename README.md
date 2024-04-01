@@ -12,8 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
 </div> <br>
 
-![](https://skillicons.dev/icons?i=html,css,js) <br> <br>
-![](https://skillicons.dev/icons?i=mysql,bootstrap)
+![](https://skillicons.dev/icons?i=html,css,js,ts) <br> <br>
+![](https://skillicons.dev/icons?i=mysql,bootstrap,tailwind)
 
 
 ## **📫 Social Media**
