@@ -13,7 +13,7 @@
 </div> <br>
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts) <br> <br>
-![](https://skillicons.dev/icons?i=mysql,bootstrap,tailwind)
+![](https://skillicons.dev/icons?i=mysql,tailwind,bootstrap)
 
 
 ## **📫 Social Media**
