@@ -2,7 +2,7 @@
 
 🖥️ Sou um entusiasta do desenvolvimento front-end em constante busca por aprimoramento!
 
-📚 HTML, CSS, JavaScript
+📚 HTML, CSS, JavaScript, TypeScript
 
 🚀 Além do meu conhecimento atual, estou em uma jornada de aprendizado contínuo para aprimorar minhas habilidades de programação e desenvolvimento web.
 
