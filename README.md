@@ -1,6 +1,6 @@
 ## 👋 Olá, sou o Vinicius!! :)
 
-🖥️ Sou um entusiasta do desenvolvimento front-end em constante busca por aprimoramento!
+🖥️ Sou um desenvolvedor front-end em constante busca por aprimoramento!
 
 📚 HTML, CSS, JavaScript, TypeScript
 
