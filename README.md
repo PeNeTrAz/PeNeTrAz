@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
 </div> <br>
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,reactjs) <br> <br>
+![](https://skillicons.dev/icons?i=html,css,js,ts,react) <br> <br>
 ![](https://skillicons.dev/icons?i=mysql,tailwind,bootstrap)
 
 
