@@ -2,7 +2,7 @@
 
 🖥️ Sou um desenvolvedor front-end em constante busca por aprimoramento!
 
-📚 HTML, CSS, JavaScript, TypeScript
+📚 HTML, CSS, JavaScript, TypeScript, ReactJS
 
 🚀 Além do meu conhecimento atual, estou em uma jornada de aprendizado contínuo para aprimorar minhas habilidades de programação e desenvolvimento web.
 
@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
 </div> <br>
 
-![](https://skillicons.dev/icons?i=html,css,js,ts) <br> <br>
+![](https://skillicons.dev/icons?i=html,css,js,ts,reactjs) <br> <br>
 ![](https://skillicons.dev/icons?i=mysql,tailwind,bootstrap)
 
 
