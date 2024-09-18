@@ -1,10 +1,8 @@
 ## 👋 Olá, sou o Vinicius!! :)
 
-🖥️ Sou um desenvolvedor front-end em constante busca por aprimoramento!
+🖥️ Sou um programador com uma paixão por segurança cibernética. Meu objetivo é aplicar minhas habilidades técnicas para proteger sistemas, dados e informações de ameaças digitais, ao mesmo tempo em que busco inovar e automatizar tarefas relacionadas à segurança.
 
-📚 HTML, CSS, JavaScript, TypeScript, ReactJS
-
-🚀 Além do meu conhecimento atual, estou em uma jornada de aprendizado contínuo para aprimorar minhas habilidades de programação e desenvolvimento web.
+📚 Possuo conhecimentos em HTML, CSS, JavaScript
 
 ## **📈 GitHub Stats & Skills**
 <div>
