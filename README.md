@@ -2,7 +2,7 @@
 
 🖥️ Sou um programador com uma paixão por segurança cibernética. Meu objetivo é aplicar minhas habilidades técnicas para proteger sistemas, dados e informações de ameaças digitais, ao mesmo tempo em que busco inovar e automatizar tarefas relacionadas à segurança.
 
-📚 Possuo conhecimentos em HTML, CSS, JavaScript
+📚 Possuo conhecimentos em HTML, CSS, JavaScript, MySQL
 
 ## **📈 GitHub Stats & Skills**
 <div>
@@ -10,8 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penetraz&theme=dark&langs_count=20"/>
 </div> <br>
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,react) <br> <br>
-![](https://skillicons.dev/icons?i=mysql,tailwind,next)
+![](https://skillicons.dev/icons?i=html,css,js) <br> <br>
+![](https://skillicons.dev/icons?i=mysql,tailwind)
 
 
 ## **📫 Social Media**
