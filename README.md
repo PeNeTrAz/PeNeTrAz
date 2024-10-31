@@ -2,6 +2,7 @@
 
 🖥️ Sou um programador com uma paixão por segurança cibernética. Meu objetivo é aplicar minhas habilidades técnicas para proteger sistemas, dados e informações de ameaças digitais, ao mesmo tempo em que busco inovar e automatizar tarefas relacionadas à segurança.
 
+<br>
 
 ## **📈 GitHub Stats & Skills**
 <div>
